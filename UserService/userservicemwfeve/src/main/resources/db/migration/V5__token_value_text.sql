@@ -1,0 +1,1 @@
+ALTER TABLE token MODIFY value TEXT NULL;
